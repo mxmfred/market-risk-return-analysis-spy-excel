@@ -82,6 +82,7 @@ A **risk–return bubble chart** was created with:
 ![Risk–Return Bubble Chart](visuals/risk_return_bubble_chart.png)
 
 This visualization allows simultaneous comparison of return, risk, and risk-adjusted efficiency relative to the SPY benchmark.
+Larger bubbles indicate higher Sharpe ratios, representing stronger risk-adjusted performance.
 
 ---
 
