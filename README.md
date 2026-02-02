@@ -79,6 +79,8 @@ A **risk–return bubble chart** was created with:
 - **Y-axis:** Annual Return  
 - **Bubble size:** Sharpe Ratio  
 
+![Risk–Return Bubble Chart](visuals/risk_return_bubble_chart.png)
+
 This visualization allows simultaneous comparison of return, risk, and risk-adjusted efficiency relative to the SPY benchmark.
 
 ---
